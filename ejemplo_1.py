@@ -13,7 +13,7 @@ if __name__ == '__main__':
     print("Bienvenido")
 
     # Imprimir mi nombre completo
-    imprimir_nombre('Editado por: ', 'Cristopher')
+    imprimir_nombre('Coloque la cantidad de productos', 'Por favor')
 
     # Ingresar cuantos productos compró en su compra
     cantidad = cantidad_productos()
